@@ -1,0 +1,69 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "taiee",
+      "name": "太乙电影",
+      "type": 3,
+      "api": "./spider.py",
+      "ext": "taiee",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "note": "播放页是主流视频站网页，需在 parses 里配置解析接口"
+    },
+    {
+      "key": "cuptgr",
+      "name": "茶杯虎",
+      "type": 3,
+      "api": "./spider.py",
+      "ext": "cuptgr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "pianku",
+      "name": "片库",
+      "type": 3,
+      "api": "./spider.py",
+      "ext": "pianku",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "qqys",
+      "name": "千千影视",
+      "type": 3,
+      "api": "./spider.py",
+      "ext": "qqys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "lvsc",
+      "name": "绿色影视",
+      "type": 3,
+      "api": "./spider.py",
+      "ext": "lvsc",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "lxyy",
+      "name": "洛雪TV",
+      "type": 3,
+      "api": "./spider.py",
+      "ext": "lxyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "parses": [],
+  "lives": [],
+  "flags": []
+}
